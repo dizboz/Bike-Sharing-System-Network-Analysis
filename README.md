@@ -1,1 +1,2 @@
 # Bike-Sharing-System-Network-Analysis
+Bike-sharing systems (BSS) are emerging transportation systems arising from the sharing economy. Due to the data accessibility and important statistical features, those systems have gained increasing scientific interest. To better understand user behaviors in BSS and their relations to system performance, researchers have developed various data-driven approaches. The objective of this problem is to analyze BSS network topology and predict user behaviors in support of system design and operation.
